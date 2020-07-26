@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "the-king_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "the-king",
+                    "frame": "king_walk_1"
+                },
+                {
+                    "key": "the-king",
+                    "frame": "king_walk_2"
+                },
+                {
+                    "key": "the-king",
+                    "frame": "king_walk_3"
+                },
+                {
+                    "key": "the-king",
+                    "frame": "king_walk_4"
+                }
+            ]
+        },
+        {
+            "key": "the-king_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "the-king",
+                    "frame": "king_idle_1"
+                },
+                {
+                    "key": "the-king",
+                    "frame": "king_idle_2"
+                },
+                {
+                    "key": "the-king",
+                    "frame": "king_idle_3"
+                },
+                {
+                    "key": "the-king",
+                    "frame": "king_idle_4"
+                }
+            ]
+        }
+    ]
+}
